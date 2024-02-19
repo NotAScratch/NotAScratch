@@ -1,4 +1,5 @@
 ### Hi there 👋
+Currently Lost in the journey of Learning.
 
 <!--
 **NotAScratch/NotAScratch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
