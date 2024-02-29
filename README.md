@@ -25,6 +25,6 @@ Here are some ideas to get you started:
   <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"   height= "40" width="40" >
   <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"  height= "40" width="40">
   <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png"  height= "40" width="40">
-  <img ![Sass](https://raw.githubusercontent.com/sass/sass/master/logo.png)>
+[![Sass](https://raw.githubusercontent.com/sass/sass/master/img/sass-lang-logo.png)](https://sass-lang.com/)
 
 </div>
