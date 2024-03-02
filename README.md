@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Samir Sen</h1>
-<h3 align="center">A Learner Lost in the journey.</h3>
+<h1 align="right">Hi 👋, I'm Samir Sen</h1>
+<h4 align="right">I'm an explorer on a lifelong quest for knowledge and growth. Driven by a passion for the impossible, I step outside my comfort zone, embrace challenges, and turn life into an exhilarating adventure.
+
+This GitHub profile chronicles my journey as I learn, code, and create. Join me on this expedition as I navigate the vast landscapes of technology, one step at a time.</h4>
 
 - 💬 Ask me about **Java, Pyhton, React, Jupyter Notebook, DSA**
 
