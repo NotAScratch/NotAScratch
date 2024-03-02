@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samir Sen</h1>
 <h3 align="center">A Learner Lost in the journey.</h3>
 
-- 💬 Ask me about **Java, Pyhton, React, Jupyter Notebook,**
+- 💬 Ask me about **Java, Pyhton, React, Jupyter Notebook**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
