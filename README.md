@@ -16,7 +16,6 @@ This GitHub profile chronicles my journey as I learn, code, and create. Join me 
 <a href="https://linkedin.com/in/samir-sen-77a851281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samir sen" height="30" width="40" /></a>
 <a href="https://instagram.com/3ft.over.clouds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3ft.over.clouds" height="30" width="40" /></a>
 </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notascratch&show_icons=true&locale=en&layout=compact" alt="notascratch" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notascratch&show_icons=true&locale=en" alt="notascratch" /></p>
