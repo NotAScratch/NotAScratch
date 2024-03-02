@@ -16,13 +16,6 @@ This GitHub profile chronicles my journey as I learn, code, and create. Join me 
 <a href="https://linkedin.com/in/samir-sen-77a851281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samir sen" height="30" width="40" /></a>
 <a href="https://instagram.com/3ft.over.clouds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3ft.over.clouds" height="30" width="40" /></a>
 </p>
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=NotAScratch&theme=solarized-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NotAScratch&theme=solarized-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NotAScratch&theme=solarized-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NotAScratch&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NotAScratch&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=codeSTACKr&hide_border=true&order=2&custom_title=Contrubitions" height="150" alt="languages graph"  />
