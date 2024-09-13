@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=NotAScratch&color=dc143c)
 <h1 align="left">Hi 👋, I'm Samir Sen</h1>
 <h4 align="left">Lost on a lifelong quest for knowledge and growth. Driven by a passion for the impossible, I step outside my comfort zone, embrace challenges, and turn life into an exhilarating adventure.
 
