@@ -1,20 +1,49 @@
-<h1 align="left">Hi 👋, I'm Samir Sen</h1>
-<h4 align="left">Lost on a lifelong quest for knowledge and growth. Driven by a passion for the impossible, I step outside my comfort zone, embrace challenges, and turn life into an exhilarating adventure.
+# Samir Sen
 
-This GitHub profile chronicles my journey as I learn, code, and create. Join me on this expedition as I navigate the vast landscapes of technology, one commit at a time.</h4>
+### Curious by default. Building to find out.
 
-- 💬 Ask me about **Java, Pyhton, React, Jupyter Notebook, DSA**
+I am a developer on a lifelong quest for knowledge, better questions, and the occasional impossible problem. I like moving between the layers of a project: shaping a useful interface, designing the API behind it, teaching a model something new, or wiring software to the physical world.
 
+This profile is my working notebook. Some repositories are polished projects; others are experiments, course notes, or evidence of a question I could not leave alone.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://github.com/NotAScratch"><img src="https://img.shields.io/badge/GitHub-NotAScratch-202124?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <img src="https://img.shields.io/badge/status-always_learning-2f6f62?style=flat-square" alt="Always learning" />
+  <img src="https://img.shields.io/badge/approach-build%20%7C%20break%20%7C%20understand-cb6f2e?style=flat-square" alt="Build, break, understand" />
+</p>
 
+## What I am exploring
+
+| Direction | The kind of work I enjoy |
+| --- | --- |
+| **Backend engineering** | Java, Spring Boot, REST APIs, authentication, databases, and systems that hold up under real use |
+| **Machine learning** | Jupyter experiments, neural networks, NLP, prediction, and learning how models behave outside the happy path |
+| **Computer vision** | Object detection, distance measurement, and projects that turn pixels into useful information |
+| **Frontend and product ideas** | React, TypeScript, JavaScript, and small applications that make a practical problem feel simpler |
+| **Hardware** | Arduino projects that let code leave the screen and do something in the physical world |
+
+## A few things from the workshop
+
+- [**Ghar Jagga**](https://github.com/NotAScratch/Ghar_Jagga) — a current build in the space of property and place.
+- [**Agro-Chain**](https://github.com/NotAScratch/Agro-Chain) — exploring technology around agriculture and connected systems.
+- [**Job-Finder**](https://github.com/NotAScratch/Job-Finder) — a practical application built around finding opportunities.
+- [**SpringSecurityJwt**](https://github.com/NotAScratch/SpringSecurityJwt) — inventory management with Spring Boot, Hibernate, MySQL, authentication, and CSV import/export.
+- [**model-api**](https://github.com/NotAScratch/model-api) — putting a trained model behind an API.
+- [**Arduino-BT-CAR**](https://github.com/NotAScratch/Arduino-BT-CAR) — Bluetooth control, motors, and a small reminder that software can have wheels.
+
+There are also experiments in weather and house-price prediction, NLP, PySpark, plant data visualization, face-mask detection, and more in the [full repository list](https://github.com/NotAScratch?tab=repositories).
+
+## The stack I keep returning to
+
+`Java` `Spring Boot` `Python` `Jupyter` `JavaScript` `TypeScript` `React` `C++` `HTML` `CSS` `MySQL` `MongoDB` `Git` `AWS` `Arduino`
+
+## How I work
+
+I learn by taking things apart, rebuilding them, and asking one more question than the tutorial answered. I am happiest when a challenge is slightly beyond my current comfort zone. That is usually where the interesting commit is hiding.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotAScratch&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NotAScratch&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=codeSTACKr&hide_border=true&order=2&custom_title=Contrubitions" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=NotAScratch&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
-<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NotAScratch&radius=16&theme=redical&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=NotAScratch&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&disable_animations=true&theme=transparent" height="160" alt="Samir's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotAScratch&layout=compact&hide_title=true&hide_border=true&langs_count=8&theme=transparent" height="160" alt="Most used languages" />
 </div>
 
-###
+<p align="center"><sub>Still learning. Still building. Still asking better questions.</sub></p>
