@@ -50,45 +50,11 @@
 
 ## Also in the works
 
-<sub>Private or early-stage. More when they're ready.</sub>
-
-- 🦾 **A second robot platform:** bringing up a larger, more agile robot base
-- 🛒 **Retail robotics:** an interactive in-store robot built to catch shoppers' attention
-- 🎯 **Vision-based tracking:** following moving targets in real time
-- 🌾 **Agri-tech:** digital tools for farms and the supply chains around them
-- 🏠 **A property platform** for the local market
-- 📱 **An offline-first mobile app** for exam preparation
-- 💼 **A job-matching platform**
+<img src="assets/aqua-abyss/works.svg" width="100%" alt="Private or early-stage projects: a second robot platform, retail robotics, vision-based tracking, agri-tech, a property platform, an offline-first mobile app for exam preparation, and a job-matching platform." />
 
 ## Toolbox
 
-**Robotics** &nbsp;
-<img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" />
-<img src="https://img.shields.io/badge/Gazebo-F58113?style=flat-square&logo=gazebo&logoColor=white" alt="Gazebo" />
-<img src="https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Jetson" />
-<img src="https://img.shields.io/badge/SLAM_·_EKF_·_Nav2-060c1a?style=flat-square" alt="SLAM, EKF, Nav2" />
-
-**AI / ML** &nbsp;
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
-
-**Embedded** &nbsp;
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
-<img src="https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white" alt="PlatformIO" />
-<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />
-
-**Languages & backend** &nbsp;
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="assets/aqua-abyss/toolbox.svg" width="100%" alt="Toolbox. Robotics: ROS 2, Gazebo, NVIDIA Jetson, SLAM, EKF, Nav2. AI/ML: PyTorch, TensorFlow, OpenCV, scikit-learn, Spark, Jupyter. Embedded: ESP32, Arduino, PlatformIO, MQTT. Languages and backend: Python, C++, Java, TypeScript, Spring Boot, Linux." />
 
 ---
 
