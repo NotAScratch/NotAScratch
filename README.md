@@ -1,5 +1,5 @@
 <a href="https://github.com/NotAScratch/Autonomous-Mapping-and-Navigation">
-  <img src="assets/banner.svg" width="100%" alt="Samir Sen: robotics, machine learning and embedded systems. An animated LiDAR scan sweeps a room." />
+  <img src="assets/aqua-abyss/banner.svg" width="100%" alt="Samir Sen: robotics, machine learning and embedded systems. An animated LiDAR scan sweeps a room." />
 </a>
 
 <p align="center">
@@ -15,15 +15,15 @@ Every project here is written as an open **research log**: what I tried, what br
 ## Featured research
 
 <p align="center">
-  <a href="https://github.com/NotAScratch/Autonomous-Mapping-and-Navigation"><img src="assets/card-slam.svg" width="49%" alt="Autonomous Mapping and Navigation: SLAM from scratch on a real wheeled robot" /></a>
-  <a href="https://github.com/NotAScratch/rosmaster-r2-sim"><img src="assets/card-sim.svg" width="49%" alt="Rosmaster R2 Sim: Gazebo digital twin with 16/16 parity checks passing" /></a>
-  <a href="https://github.com/NotAScratch/Monkey-Deterrence"><img src="assets/card-bandar.svg" width="49%" alt="Bandar Sentinel: edge-AI monkey detection and non-lethal deterrence" /></a>
-  <a href="https://github.com/NotAScratch/AQI-Monitor"><img src="assets/card-aqi.svg" width="49%" alt="AQI Monitor: ESP32 PM2.5 monitor streaming to ThingsBoard" /></a>
+  <a href="https://github.com/NotAScratch/Autonomous-Mapping-and-Navigation"><img src="assets/aqua-abyss/card-slam.svg" width="49%" alt="Autonomous Mapping and Navigation: SLAM from scratch on a real wheeled robot" /></a>
+  <a href="https://github.com/NotAScratch/rosmaster-r2-sim"><img src="assets/aqua-abyss/card-sim.svg" width="49%" alt="Rosmaster R2 Sim: Gazebo digital twin with 16/16 parity checks passing" /></a>
+  <a href="https://github.com/NotAScratch/Monkey-Deterrence"><img src="assets/aqua-abyss/card-bandar.svg" width="49%" alt="Bandar Sentinel: edge-AI monkey detection and non-lethal deterrence" /></a>
+  <a href="https://github.com/NotAScratch/AQI-Monitor"><img src="assets/aqua-abyss/card-aqi.svg" width="49%" alt="AQI Monitor: ESP32 PM2.5 monitor streaming to ThingsBoard" /></a>
 </p>
 
 ## Lab status
 
-<img src="assets/lab-status.svg" width="100%" alt="Research roadmap: the real robot is on phase 1 of 12 (talking to hardware); the simulation twin has finished phase 4 (parity) and is moving to SLAM and Nav2." />
+<img src="assets/aqua-abyss/lab-status.svg" width="100%" alt="Research roadmap: the real robot is on phase 1 of 12 (talking to hardware); the simulation twin has finished phase 4 (parity) and is moving to SLAM and Nav2." />
 
 <details>
 <summary><b>Recent findings</b></summary>
