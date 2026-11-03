@@ -6,6 +6,6 @@
 <g transform="translate(30,22)"><rect width="38" height="22" rx="11" fill="#7fe7dc" fill-opacity="0.12" stroke="#7fe7dc" stroke-opacity="0.5"/>
 <text x="19" y="15.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#7fe7dc" letter-spacing="1">ML</text></g>
 <text x="30" y="68" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#eaf7f4">House-Price-Prediction</text>
-<text x="330" y="38" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#8ea6b8">Predicts house prices from location, size and amenities, with visualizations</text><text x="330" y="62" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#8ea6b8">of what drives the price</text>
+<text x="350" y="48" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#8ea6b8">Predicts house prices from location, size and amenities, with visualizations</text><text x="350" y="72" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#8ea6b8">of what drives the price</text>
 <path d="M1154 60 l12 -12 M1156 48 h10 v10" fill="none" stroke="#7fe7dc" stroke-width="2" stroke-linecap="round"/>
 </svg>
