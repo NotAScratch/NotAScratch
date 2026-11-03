@@ -49,6 +49,18 @@ Every project here is written as an open **research log**: what I tried, what br
 | 🛰️ | [**ESP-32 Climate Monitor**](https://github.com/NotAScratch/ESP-32-DHT-11-gsm-module-live-humidity-and-temprature-monitoring) | Live temperature and humidity sent to the cloud and out over GSM text messages |
 | 🚗 | [**Arduino-BT-CAR**](https://github.com/NotAScratch/Arduino-BT-CAR) | A Bluetooth-controlled rover, where my robotics work started |
 
+## Also in the works
+
+<sub>Private or early-stage. More when they're ready.</sub>
+
+- 🦾 **A second robot platform:** bringing up a larger, more agile robot base
+- 🛒 **Retail robotics:** an interactive in-store robot built to catch shoppers' attention
+- 🎯 **Vision-based tracking:** following moving targets in real time
+- 🌾 **Agri-tech:** digital tools for farms and the supply chains around them
+- 🏠 **A property platform** for the local market
+- 📱 **An offline-first mobile app** for exam preparation
+- 💼 **A job-matching platform**
+
 ## Toolbox
 
 **Robotics** &nbsp;
