@@ -1,11 +1,11 @@
 <a href="https://github.com/NotAScratch/Autonomous-Mapping-and-Navigation">
-  <img src="assets/banner.svg" width="100%" alt="Samir Sen: robotics, machine learning and embedded systems. An animated LiDAR scan sweeps a room." />
+  <img src="assets/aqua-abyss/banner.svg" width="100%" alt="Samir Sen: robotics, machine learning and embedded systems. An animated LiDAR scan sweeps a room." />
 </a>
 
 <p align="center">
-  <a href="https://notascratch.github.io/Samir-Sen/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=2dd4bf" alt="Portfolio" /></a>
-  <a href="https://x.com/samirsen66"><img src="https://img.shields.io/badge/@samirsen66-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
-  <a href="https://github.com/NotAScratch?tab=followers"><img src="https://img.shields.io/github/followers/NotAScratch?style=for-the-badge&logo=github&label=Followers&labelColor=0d1117&color=2dd4bf" alt="GitHub followers" /></a>
+  <a href="https://notascratch.github.io/Samir-Sen/"><img src="https://img.shields.io/badge/Portfolio-060c1a?style=for-the-badge&logo=googlechrome&logoColor=2fd8b0" alt="Portfolio" /></a>
+  <a href="https://x.com/samirsen66"><img src="https://img.shields.io/badge/@samirsen66-060c1a?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <a href="https://github.com/NotAScratch?tab=followers"><img src="https://img.shields.io/github/followers/NotAScratch?style=for-the-badge&logo=github&label=Followers&labelColor=060c1a&color=f9b9cc" alt="GitHub followers" /></a>
 </p>
 
 I build things that **sense, decide and move**. Right now that means a Jetson-powered robot that I'm teaching to map a room. I write the SLAM stack myself, starting from the raw LiDAR bytes, then benchmark it against the production tools. Alongside it runs a Gazebo digital twin, so the same code is tested in simulation before it touches the hardware.
@@ -15,15 +15,15 @@ Every project here is written as an open **research log**: what I tried, what br
 ## Featured research
 
 <p align="center">
-  <a href="https://github.com/NotAScratch/Autonomous-Mapping-and-Navigation"><img src="assets/card-slam.svg" width="49%" alt="Autonomous Mapping and Navigation: SLAM from scratch on a real wheeled robot" /></a>
-  <a href="https://github.com/NotAScratch/rosmaster-r2-sim"><img src="assets/card-sim.svg" width="49%" alt="Rosmaster R2 Sim: Gazebo digital twin with 16/16 parity checks passing" /></a>
-  <a href="https://github.com/NotAScratch/Monkey-Deterrence"><img src="assets/card-bandar.svg" width="49%" alt="Bandar Sentinel: edge-AI monkey detection and non-lethal deterrence" /></a>
-  <a href="https://github.com/NotAScratch/AQI-Monitor"><img src="assets/card-aqi.svg" width="49%" alt="AQI Monitor: ESP32 PM2.5 monitor streaming to ThingsBoard" /></a>
+  <a href="https://github.com/NotAScratch/Autonomous-Mapping-and-Navigation"><img src="assets/aqua-abyss/card-slam.svg" width="49%" alt="Autonomous Mapping and Navigation: SLAM from scratch on a real wheeled robot" /></a>
+  <a href="https://github.com/NotAScratch/rosmaster-r2-sim"><img src="assets/aqua-abyss/card-sim.svg" width="49%" alt="Rosmaster R2 Sim: Gazebo digital twin with 16/16 parity checks passing" /></a>
+  <a href="https://github.com/NotAScratch/Monkey-Deterrence"><img src="assets/aqua-abyss/card-bandar.svg" width="49%" alt="Bandar Sentinel: edge-AI monkey detection and non-lethal deterrence" /></a>
+  <a href="https://github.com/NotAScratch/AQI-Monitor"><img src="assets/aqua-abyss/card-aqi.svg" width="49%" alt="AQI Monitor: ESP32 PM2.5 monitor streaming to ThingsBoard" /></a>
 </p>
 
 ## Lab status
 
-<img src="assets/lab-status.svg" width="100%" alt="Research roadmap: the real robot is on phase 1 of 12 (talking to hardware); the simulation twin has finished phase 4 (parity) and is moving to SLAM and Nav2." />
+<img src="assets/aqua-abyss/lab-status.svg" width="100%" alt="Research roadmap: the real robot is on phase 1 of 12 (talking to hardware); the simulation twin has finished phase 4 (parity) and is moving to SLAM and Nav2." />
 
 <details>
 <summary><b>Recent findings</b></summary>
@@ -49,13 +49,25 @@ Every project here is written as an open **research log**: what I tried, what br
 | 🛰️ | [**ESP-32 Climate Monitor**](https://github.com/NotAScratch/ESP-32-DHT-11-gsm-module-live-humidity-and-temprature-monitoring) | Live temperature and humidity sent to the cloud and out over GSM text messages |
 | 🚗 | [**Arduino-BT-CAR**](https://github.com/NotAScratch/Arduino-BT-CAR) | A Bluetooth-controlled rover, where my robotics work started |
 
+## Also in the works
+
+<sub>Private or early-stage. More when they're ready.</sub>
+
+- 🦾 **A second robot platform:** bringing up a larger, more agile robot base
+- 🛒 **Retail robotics:** an interactive in-store robot built to catch shoppers' attention
+- 🎯 **Vision-based tracking:** following moving targets in real time
+- 🌾 **Agri-tech:** digital tools for farms and the supply chains around them
+- 🏠 **A property platform** for the local market
+- 📱 **An offline-first mobile app** for exam preparation
+- 💼 **A job-matching platform**
+
 ## Toolbox
 
 **Robotics** &nbsp;
 <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" />
 <img src="https://img.shields.io/badge/Gazebo-F58113?style=flat-square&logo=gazebo&logoColor=white" alt="Gazebo" />
 <img src="https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Jetson" />
-<img src="https://img.shields.io/badge/SLAM_·_EKF_·_Nav2-0d1117?style=flat-square" alt="SLAM, EKF, Nav2" />
+<img src="https://img.shields.io/badge/SLAM_·_EKF_·_Nav2-060c1a?style=flat-square" alt="SLAM, EKF, Nav2" />
 
 **AI / ML** &nbsp;
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
