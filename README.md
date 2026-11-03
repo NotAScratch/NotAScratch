@@ -8,9 +8,7 @@
   <a href="https://github.com/NotAScratch?tab=followers"><img src="https://img.shields.io/github/followers/NotAScratch?style=for-the-badge&logo=github&label=Followers&labelColor=060c1a&color=f9b9cc" alt="GitHub followers" /></a>
 </p>
 
-I build things that **sense, decide and move**. Right now that means a Jetson-powered robot that I'm teaching to map a room. I write the SLAM stack myself, starting from the raw LiDAR bytes, then benchmark it against the production tools. Alongside it runs a Gazebo digital twin, so the same code is tested in simulation before it touches the hardware.
-
-Every project here is written as an open **research log**: what I tried, what broke and what I learned.
+<img src="assets/aqua-abyss/intro.svg" width="100%" alt="I build things that sense, decide and move. Right now that means a Jetson-powered robot that I'm teaching to map a room. I write the SLAM stack myself, starting from the raw LiDAR bytes, then benchmark it against the production tools. Alongside it runs a Gazebo digital twin, so the same code is tested in simulation before it touches the hardware. Every project here is written as an open research log." />
 
 ## Featured research
 
@@ -37,17 +35,18 @@ Every project here is written as an open **research log**: what I tried, what br
 
 ## More from the lab
 
-| | Project | What it does |
-|:-:|---|---|
-| 👁️ | [**FYP_Object_detection**](https://github.com/NotAScratch/FYP_Object_detection) | SSD MobileNet V3 object detection on images and video, served by a Python inference API with a Spring Boot web app in front |
-| 📏 | [**Real-Time Object Detection & Distance**](https://github.com/NotAScratch/Real-Time-Object-Detection-and-Distance-Measurement-with-Computer-Vision) | Detects objects in live video and estimates how far away they are (forked to study) |
-| 🧠 | [**Neural-Networks**](https://github.com/NotAScratch/Neural-Networks) | LSTM sequence models and TensorFlow/Keras experiments |
-| 💬 | [**Natural-Language-Processing**](https://github.com/NotAScratch/Natural-Language-Processing) | Sentiment analysis, word clouds and ensemble learning on a movie dataset |
-| 🤖 | [**AI**](https://github.com/NotAScratch/AI) | Search algorithms (BFS vs DFS), KNN, SVM and disease prediction, built up from the fundamentals |
-| 🌦️ | [**Weather-Prediction**](https://github.com/NotAScratch/Weather-Prediction) · [**House-Price-Prediction**](https://github.com/NotAScratch/House-Price-Prediction) | End-to-end regression: cleaning, feature work, training and evaluation |
-| ⚡ | [**Learning-Pyspark**](https://github.com/NotAScratch/Learning-Pyspark) | Distributed data processing and transaction analysis with Spark |
-| 🛰️ | [**ESP-32 Climate Monitor**](https://github.com/NotAScratch/ESP-32-DHT-11-gsm-module-live-humidity-and-temprature-monitoring) | Live temperature and humidity sent to the cloud and out over GSM text messages |
-| 🚗 | [**Arduino-BT-CAR**](https://github.com/NotAScratch/Arduino-BT-CAR) | A Bluetooth-controlled rover, where my robotics work started |
+<p>
+<a href="https://github.com/NotAScratch/FYP_Object_detection"><img src="assets/aqua-abyss/row-fyp.svg" width="100%" alt="FYP_Object_detection: SSD MobileNet V3 object detection with a Python API and Spring Boot web app" /></a>
+<a href="https://github.com/NotAScratch/Real-Time-Object-Detection-and-Distance-Measurement-with-Computer-Vision"><img src="assets/aqua-abyss/row-distance.svg" width="100%" alt="Real-Time Object Detection and Distance: detects objects in live video and estimates their distance" /></a>
+<a href="https://github.com/NotAScratch/Neural-Networks"><img src="assets/aqua-abyss/row-nn.svg" width="100%" alt="Neural-Networks: LSTM and TensorFlow/Keras experiments" /></a>
+<a href="https://github.com/NotAScratch/Natural-Language-Processing"><img src="assets/aqua-abyss/row-nlp.svg" width="100%" alt="Natural-Language-Processing: sentiment analysis, word clouds and ensemble learning" /></a>
+<a href="https://github.com/NotAScratch/AI"><img src="assets/aqua-abyss/row-ai.svg" width="100%" alt="AI: BFS vs DFS, KNN, SVM and disease prediction" /></a>
+<a href="https://github.com/NotAScratch/Weather-Prediction"><img src="assets/aqua-abyss/row-weather.svg" width="100%" alt="Weather-Prediction: end-to-end regression on weather data" /></a>
+<a href="https://github.com/NotAScratch/House-Price-Prediction"><img src="assets/aqua-abyss/row-house.svg" width="100%" alt="House-Price-Prediction: predicts house prices from location, size and amenities" /></a>
+<a href="https://github.com/NotAScratch/Learning-Pyspark"><img src="assets/aqua-abyss/row-spark.svg" width="100%" alt="Learning-Pyspark: distributed data processing with Spark" /></a>
+<a href="https://github.com/NotAScratch/ESP-32-DHT-11-gsm-module-live-humidity-and-temprature-monitoring"><img src="assets/aqua-abyss/row-esp32.svg" width="100%" alt="ESP-32 Climate Monitor: live temperature and humidity over cloud and GSM" /></a>
+<a href="https://github.com/NotAScratch/Arduino-BT-CAR"><img src="assets/aqua-abyss/row-btcar.svg" width="100%" alt="Arduino-BT-CAR: a Bluetooth-controlled rover" /></a>
+</p>
 
 ## Also in the works
 
