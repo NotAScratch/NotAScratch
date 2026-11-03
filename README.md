@@ -3,9 +3,9 @@
 </a>
 
 <p align="center">
-  <a href="https://notascratch.github.io/Samir-Sen/"><img src="https://img.shields.io/badge/Portfolio-1b1d24?style=for-the-badge&logo=googlechrome&logoColor=0f8f7e" alt="Portfolio" /></a>
-  <a href="https://x.com/samirsen66"><img src="https://img.shields.io/badge/@samirsen66-1b1d24?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
-  <a href="https://github.com/NotAScratch?tab=followers"><img src="https://img.shields.io/github/followers/NotAScratch?style=for-the-badge&logo=github&label=Followers&labelColor=1b1d24&color=0f8f7e" alt="GitHub followers" /></a>
+  <a href="https://notascratch.github.io/Samir-Sen/"><img src="https://img.shields.io/badge/Portfolio-060c1a?style=for-the-badge&logo=googlechrome&logoColor=2fd8b0" alt="Portfolio" /></a>
+  <a href="https://x.com/samirsen66"><img src="https://img.shields.io/badge/@samirsen66-060c1a?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <a href="https://github.com/NotAScratch?tab=followers"><img src="https://img.shields.io/github/followers/NotAScratch?style=for-the-badge&logo=github&label=Followers&labelColor=060c1a&color=f9b9cc" alt="GitHub followers" /></a>
 </p>
 
 I build things that **sense, decide and move**. Right now that means a Jetson-powered robot that I'm teaching to map a room. I write the SLAM stack myself, starting from the raw LiDAR bytes, then benchmark it against the production tools. Alongside it runs a Gazebo digital twin, so the same code is tested in simulation before it touches the hardware.
@@ -67,7 +67,7 @@ Every project here is written as an open **research log**: what I tried, what br
 <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" />
 <img src="https://img.shields.io/badge/Gazebo-F58113?style=flat-square&logo=gazebo&logoColor=white" alt="Gazebo" />
 <img src="https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Jetson" />
-<img src="https://img.shields.io/badge/SLAM_·_EKF_·_Nav2-1b1d24?style=flat-square" alt="SLAM, EKF, Nav2" />
+<img src="https://img.shields.io/badge/SLAM_·_EKF_·_Nav2-060c1a?style=flat-square" alt="SLAM, EKF, Nav2" />
 
 **AI / ML** &nbsp;
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
